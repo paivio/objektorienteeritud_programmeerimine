@@ -1,2 +1,2 @@
-# objektorienteeritud_programmeerimine
+# Objektorienteeritud programmeerimine (Java) kodused ülesanded
 
